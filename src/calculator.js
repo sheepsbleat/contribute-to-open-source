@@ -45,5 +45,5 @@ exports.divide = (x, y) => {
   return x / y;
 };
 // i didnt change anything, I just wanted to try this
-var test1235315431315315115315 = "";
+let test1235315431315315115315 = '';
 module.exports = exports;
